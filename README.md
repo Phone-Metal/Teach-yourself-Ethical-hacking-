@@ -1,7 +1,9 @@
 # Teach-yourself-Ethical-hacking-
 Self studious-guide Teach yourself Ethical hacking 
+#
 Feel Free To Contribute To Make This Better :D
-Note : List Was Converted Form HTML to .md So It May Be A Bit Bugish
+### [Original HTML Page Available Here](https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html?m=1) 
+ Note : List Was Converted Form HTML to .md So It May Be A Bit Bugish
 <a href="https://teach-yourself-ethical-hacking.blogspot.com/">
 <svg class="svg-icon-24 touch-icon back-button rtl-reversible-icon">
 <use xlink:href="/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
@@ -15,10 +17,6 @@ Note : List Was Converted Form HTML to .md So It May Be A Bit Bugish
 <use xlink:href="/responsive/sprite_v1_6.css.svg#ic_search_black_24dp" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
 </svg>
 </button>
-<div class="section" id="search_top" name="Search (Top)"><div class="widget BlogSearch" data-version="2" id="BlogSearch1">
-<h3 class="title">
-Search This Blog
-</h3>
 <div class="widget-content" role="search">
 <form action="https://teach-yourself-ethical-hacking.blogspot.com/search" target="_top">
 <div class="search-input">
@@ -48,28 +46,12 @@ Teach yourself ethical hacking
 </div>
 </header>
 
-</div>
-<div class="post-sidebar-item post-sidebar-labels">
-<div>Labels</div>
-<ul>
-<li><a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20learn%20hacking%20by%20myself" rel="tag">how to learn hacking by myself</a></li>
-<li><a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20self%20teach%20hacking" rel="tag">how to self teach hacking</a></li>
-<li><a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20start%20to%20learn%20hacking" rel="tag">how to start to learn hacking</a></li>
-<li><a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20teach%20myself%20hacking" rel="tag">how to teach myself hacking</a></li>
-<li><a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20teach%20yourself%20ethical%20hacking" rel="tag">how to teach yourself ethical hacking</a></li>
-</ul>
-</div>
-</div>
-<div class="post">
 
 <div class="post-header">
 <div class="post-header-line-1">
 <span class="byline post-timestamp">
 <meta content="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html">
 <a class="timestamp-link" href="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" rel="bookmark" title="permanent link">
-<time class="published" datetime="2021-01-31T22:13:00-08:00" title="2021-01-31T22:13:00-08:00">
-January 31, 2021
-</time>
 </a>
 </span>
 </div>
