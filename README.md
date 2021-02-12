@@ -1,10 +1,9 @@
 # Teach-yourself-Ethical-hacking-
-Self studious-guide Teach yourself Ethical hacking 
+Self Study Guide To Help Teach yourself Ethical hacking 
 #
 Feel Free To Contribute To Make This Better :D
 ### [Original HTML Page Available Here](https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html?m=1) 
- Note : List Was Converted Form HTML to .md So It May Be A Bit Bugish
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/">
+ Note : List Was Translated Form HTML to .md So It May Be A Bit Bugish, But Will Be Rewritten From Scratch For the Better Editing<a href="https://teach-yourself-ethical-hacking.blogspot.com/">
 <svg class="svg-icon-24 touch-icon back-button rtl-reversible-icon">
 <use xlink:href="/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
 </svg>
@@ -75,78 +74,3 @@ Share
 <div class="share-buttons-container">
 <ul aria-hidden="true" aria-label="Share" class="share-buttons hidden" id="sharing-popup-Blog1-footer-1-4698456210141617423" role="menu">
 <li>
-<span aria-label="Get link" class="sharing-platform-button sharing-element-link" data-href="https://draft.blogger.com/share-post.g?blogID=9057122913754795877&amp;postID=4698456210141617423&amp;target=" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Get link">
-<svg class="svg-icon-24 touch-icon sharing-link">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_link_dark" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Get link</span>
-</span>
-</li>
-<li>
-<span aria-label="Share to Facebook" class="sharing-platform-button sharing-element-facebook" data-href="https://draft.blogger.com/share-post.g?blogID=9057122913754795877&amp;postID=4698456210141617423&amp;target=facebook" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Share to Facebook">
-<svg class="svg-icon-24 touch-icon sharing-facebook">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Facebook</span>
-</span>
-</li>
-<li>
-<span aria-label="Share to Twitter" class="sharing-platform-button sharing-element-twitter" data-href="https://draft.blogger.com/share-post.g?blogID=9057122913754795877&amp;postID=4698456210141617423&amp;target=twitter" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Share to Twitter">
-<svg class="svg-icon-24 touch-icon sharing-twitter">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Twitter</span>
-</span>
-</li>
-<li>
-<span aria-label="Share to Pinterest" class="sharing-platform-button sharing-element-pinterest" data-href="https://draft.blogger.com/share-post.g?blogID=9057122913754795877&amp;postID=4698456210141617423&amp;target=pinterest" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Share to Pinterest">
-<svg class="svg-icon-24 touch-icon sharing-pinterest">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Pinterest</span>
-</span>
-</li>
-<li>
-<span aria-label="Email" class="sharing-platform-button sharing-element-email" data-href="https://draft.blogger.com/share-post.g?blogID=9057122913754795877&amp;postID=4698456210141617423&amp;target=email" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Email">
-<svg class="svg-icon-24 touch-icon sharing-email">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_24_email_dark" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Email</span>
-</span>
-</li>
-<li aria-hidden="true" class="hidden">
-<span aria-label="Share to other apps" class="sharing-platform-button sharing-element-other" data-url="https://teach-yourself-ethical-hacking.blogspot.com/2021/01/teach-yourself-ethical-hacking.html" role="menuitem" tabindex="-1" title="Share to other apps">
-<svg class="svg-icon-24 touch-icon sharing-sharingOther">
-<use xlink:href="/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
-</svg>
-<span class="platform-sharing-text">Other Apps</span>
-</span>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="post-footer-line post-footer-line-2">
-<span class="byline post-labels">
-<span class="byline-label">Labels:</span>
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20learn%20hacking%20by%20myself" rel="tag">how to learn hacking by myself</a>
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20self%20teach%20hacking" rel="tag">how to self teach hacking</a>
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20start%20to%20learn%20hacking" rel="tag">how to start to learn hacking</a>
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20teach%20myself%20hacking" rel="tag">how to teach myself hacking</a>
-<a href="https://teach-yourself-ethical-hacking.blogspot.com/search/label/how%20to%20teach%20yourself%20ethical%20hacking" rel="tag">how to teach yourself ethical hacking</a>
-</span>
-</div>
-<div class="post-footer-line post-footer-line-3">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</main>
